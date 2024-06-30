@@ -20,6 +20,17 @@ print("Hello, World!", "Good Day!", "How are you")
 #### Output
 Hello, World! Good Day! How are you
 
+## Section 2
+#### Instruction(s)
+```python
+p = 100      # 100
+p = p + 500       # 100 + 500 = 600
+p = p - 300      # 600 - 300 = 300
+print(p)
+```
+#### Output
+300
+
 ## Contribution
 
 The programs are written by Santanu Karmakar
