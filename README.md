@@ -13,6 +13,7 @@
 - [Lesson 3](#lesson-3)
 - [Lesson 4](#lesson-4)
 - [Lesson 5](#lesson-5)
+- [Jupiter Notebook](#notebook)
 - [Contribution](#contributipn)
 - [Contact Details](#contact-details)
 
@@ -91,6 +92,13 @@ print(b)
 #### Output
 20 <br>
 10
+
+## Notebook
+
+The programs are written on jupiter notebook, You may run the program on Google colab by clicking on the colab badge below.
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/fromsantanu/Basic-Python-Chapter-1/blob/main/Basic-Python-Chapter-1.ipynb)
+
 
 ## Contribution
 
