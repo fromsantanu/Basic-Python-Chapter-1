@@ -11,6 +11,8 @@
 - [Lesson 1](#lesson-1)
 - [Lesson 2](#lesson-2)
 - [Lesson 3](#lesson-3)
+- [Lesson 4](#lesson-4)
+- [Lesson 5](#lesson-5)
 - [Contribution](#contributipn)
 - [Contact Details](#contact-details)
 
@@ -49,6 +51,40 @@ b = 20
 t = a
 a = b
 b = t
+print(a)
+print(b)
+```
+#### Output
+20 <br>
+10
+
+## Lesson 4
+#### Objective
+Exchanging contents of two vatiables - Method 1 using third variable
+#### Instruction(s)
+```python
+# Second method without third variable
+a = 10
+b = 20
+a = a + b
+b = a - b
+a = a - b
+print(a)
+print(b)
+```
+#### Output
+20 <br>
+10
+
+## Lesson 5
+#### Objective
+Exchanging contents of two vatiables - Method 3 assigning both variable 
+#### Instruction(s)
+```python
+# assigning both variable values together
+a = 10
+b = 20
+a, b = b , a
 print(a)
 print(b)
 ```
