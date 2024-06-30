@@ -13,6 +13,8 @@
 
 ---
 ## Section 1
+#### Objective
+To learn how ro print a message with 'print' function.
 #### Instruction(s)
 ```python
 print("Hello, World!", "Good Day!", "How are you")
@@ -21,6 +23,8 @@ print("Hello, World!", "Good Day!", "How are you")
 Hello, World! Good Day! How are you
 
 ## Section 2
+#### Objective
+To learn how variables work.
 #### Instruction(s)
 ```python
 p = 100      # 100
