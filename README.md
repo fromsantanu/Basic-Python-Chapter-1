@@ -15,7 +15,7 @@
 - [Contact Details](#contact-details)
 
 ---
-### Lesson 1
+## Lesson 1
 #### Objective
 To learn how ro print a message with 'print' function.
 #### Instruction(s)
@@ -25,7 +25,7 @@ print("Hello, World!", "Good Day!", "How are you")
 #### Output
 Hello, World! Good Day! How are you
 
-### Lesson 2
+## Lesson 2
 #### Objective
 To learn how variables work.
 #### Instruction(s)
@@ -38,7 +38,7 @@ print(p)
 #### Output
 300
 
-### Lesson 3
+## Lesson 3
 #### Objective
 Exchanging contents of two vatiables - Method 1 using third variable
 #### Instruction(s)
