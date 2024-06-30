@@ -54,6 +54,7 @@ print(b)
 ```
 #### Output
 20
+
 10
 
 ## Contribution
