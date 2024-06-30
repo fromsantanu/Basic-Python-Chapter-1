@@ -8,14 +8,14 @@
 
 ## Table of Contents
 
-- [Section 1](#section-1)
-- [Section 2](#section-2)
-- [Section 3](#section-3)
+- [Lesson 1](#lesson-1)
+- [Lesson 2](#lesson-2)
+- [Lesson 3](#lesson-3)
 - [Contribution](#contributipn)
 - [Contact Details](#contact-details)
 
 ---
-## Section 1
+### Lesson 1
 #### Objective
 To learn how ro print a message with 'print' function.
 #### Instruction(s)
@@ -25,7 +25,7 @@ print("Hello, World!", "Good Day!", "How are you")
 #### Output
 Hello, World! Good Day! How are you
 
-## Section 2
+### Lesson 2
 #### Objective
 To learn how variables work.
 #### Instruction(s)
@@ -38,7 +38,7 @@ print(p)
 #### Output
 300
 
-## Section 3
+### Lesson 3
 #### Objective
 Exchanging contents of two vatiables - Method 1 using third variable
 #### Instruction(s)
