@@ -17,6 +17,7 @@
 
 ```python
 print("Hello, World!", "Good Day!", "How are you")
+```
 
 ### Output
 Hello, World! Good Day! How are you
