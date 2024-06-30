@@ -15,7 +15,7 @@
 ## Section 1
 ### Instruction(s)
 
-'''
+```python
 print("Hello, World!", "Good Day!", "How are you")
 
 ### Output
