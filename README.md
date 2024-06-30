@@ -14,6 +14,7 @@
 ---
 ## Section 1
 ### Instruction(s)
+
 '''
 print("Hello, World!", "Good Day!", "How are you")
 
