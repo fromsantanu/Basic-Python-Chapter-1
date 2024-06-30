@@ -1,7 +1,8 @@
 
 # Foundational Python - Chapter 1
 > **Brief Description:** Foundational Python Concepts
-![Project Logo](EDADengue.jpg)
+
+![Python Logo](PythonLogo.png)
 
 ---
 
