@@ -13,13 +13,11 @@
 
 ---
 ## Section 1
-### Instruction(s)
-
+#### Instruction(s)
 ```python
 print("Hello, World!", "Good Day!", "How are you")
 ```
-
-### Output
+#### Output
 Hello, World! Good Day! How are you
 
 ## Contribution
