@@ -60,7 +60,7 @@ print(b)
 
 ## Lesson 4
 #### Objective
-Exchanging contents of two vatiables - Method 1 using third variable
+Exchanging contents of two vatiables - Method 1 not using third variable
 #### Instruction(s)
 ```python
 # Second method without third variable
