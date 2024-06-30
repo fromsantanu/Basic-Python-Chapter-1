@@ -53,8 +53,7 @@ print(a)
 print(b)
 ```
 #### Output
-20
-
+20 <br>
 10
 
 ## Contribution
