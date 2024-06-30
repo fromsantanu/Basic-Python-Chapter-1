@@ -10,6 +10,7 @@
 
 - [Section 1](#section-1)
 - [Section 2](#section-2)
+- [Section 3](#section-3)
 - [Contribution](#contributipn)
 - [Contact Details](#contact-details)
 
@@ -36,6 +37,24 @@ print(p)
 ```
 #### Output
 300
+
+## Section 3
+#### Objective
+Exchanging contents of two vatiables - Method 1 using third variable
+#### Instruction(s)
+```python
+# right way first method
+a = 10
+b = 20
+t = a
+a = b
+b = t
+print(a)
+print(b)
+```
+#### Output
+20
+10
 
 ## Contribution
 
